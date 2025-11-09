@@ -221,9 +221,6 @@ meet2action/
   - Email notifications
   - Team collaboration features
 
-## 📄 License
-
-MIT License - feel free to use and modify as needed.
 
 ## 🤝 Contributing
 
