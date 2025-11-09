@@ -30,6 +30,11 @@ Before you begin, ensure you have:
 git clone <your-repo-url>
 cd meet2action
 
+# Start & activate .venv
+python -m venv .venv
+source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
+
+
 # Install dependencies
 pip install -r requirements.txt
 ```
